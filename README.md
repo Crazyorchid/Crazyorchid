@@ -1,3 +1,18 @@
+<!--
+**Crazyorchid/Crazyorchid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 - 🧑🏻‍💻 I’m a fullstack developer in Adelaide (The Digital Embassy)
 
 - 📫 How to reach me:
@@ -15,9 +30,9 @@ I LOVE PANDAS
 
         Pandas eat meat but they chose to eat bamboos to live through Ice Age and they have thumbs to hold bamboos
 
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=Crazyorchid&count_private=true&show_icons=true&theme=panda&hide_rank=false&include_all_commits=true)](https://github.com/Crazyorchid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyorchid&theme=panda&card_width=500&langs_count=6)](https://github.com/Crazyorchid/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyorchid&theme=panda)](https://github.com/Crazyorchid/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=Crazyorchid&count_private=true&show_icons=true&theme=panda&hide_rank=false&include_all_commits=true&card_width=500))](https://github.com/Crazyorchid/github-readme-stats)
 
 Some of my repos here:
 
@@ -27,4 +42,3 @@ Some of my repos here:
 Here are the repos I am working right now:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=better-search-engine&show_icons=true&theme=panda)](https://github.com/Crazyorchid/better-search-engine)
-
