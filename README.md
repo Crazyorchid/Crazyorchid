@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑🏻‍💻 I’m a fullstack developer in Adelaide (The Digital Embassy)
+- 🧑🏻‍💻A Happy fullstack developer in Adelaide (The Digital Embassy)
 
 - 📫 How to reach me:
 
@@ -30,7 +30,7 @@ I LOVE PANDAS
 
         Pandas eat meat but they chose to eat bamboos to live through Ice Age and they have thumbs to hold bamboos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyorchid&theme=panda&card_width=500&langs_count=6)](https://github.com/Crazyorchid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyorchid&theme=panda&card_width=500&langs_count=4)](https://github.com/Crazyorchid/github-readme-stats)
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=Crazyorchid&count_private=true&show_icons=true&theme=panda&hide_rank=false&include_all_commits=true&card_width=500))](https://github.com/Crazyorchid/github-readme-stats)
 
