@@ -32,7 +32,7 @@ I LOVE PANDAS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyorchid&theme=default&card_width=500&langs_count=4)](https://github.com/Crazyorchid/github-readme-stats)
 
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=Crazyorchid&count_private=true&show_icons=true&theme=default&hide_rank=false&include_all_commits=true&card_width=500))](https://github.com/Crazyorchid/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=Crazyorchid&count_private=true&show_icons=true&theme=default&hide_rank=false&include_all_commits=true&card_width=500)](https://github.com/Crazyorchid/github-readme-stats)
 
 Some of my repos here:
 
