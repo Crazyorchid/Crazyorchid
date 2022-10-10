@@ -40,6 +40,6 @@ Some of my repos here:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=COMP7059-Artifical-Inteligence&show_icons=true&theme=panda)](https://github.com/Crazyorchid/COMP7059-Artifical-Inteligence)
 
-Here are the repos I am working right now:
+Here are the repos I am working on right now:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=better-search-engine&show_icons=true&theme=panda)](https://github.com/Crazyorchid/better-search-engine)
