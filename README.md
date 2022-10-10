@@ -37,8 +37,7 @@ I LOVE PANDAS
 Some of my repos here:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=comosus-smart-contract&show_icons=true&theme=panda)](https://github.com/Crazyorchid/comosus-smart-contract)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=MaxZG-site
-&show_icons=true&theme=panda)](https://github.com/Crazyorchid/MaxZG-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=MaxZG-site&show_icons=true&theme=panda)](https://github.com/Crazyorchid/MaxZG-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazyorchid&repo=COMP7059-Artifical-Inteligence&show_icons=true&theme=panda)](https://github.com/Crazyorchid/COMP7059-Artifical-Inteligence)
 
 Here are the repos I am working right now:
