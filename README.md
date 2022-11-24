@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑🏻‍💻A Sad Fullstack Developer in Adelaide
+- 🧑🏻‍💻A Happy Fullstack Developer in Adelaide
 
 - 📫 How to reach me:
 
